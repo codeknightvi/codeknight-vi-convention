@@ -1,6 +1,7 @@
 # codeknight-vi-convention
 this is personal convention for all codeknightvi repos
 
+> date: DDMMYYYY 
 > commitTypes: hotfix, fix, feat, chore, style, etc.
 
 ## Creating New PR
@@ -8,6 +9,3 @@ this is personal convention for all codeknightvi repos
 
 ## Commit Message
 {**commitType**}: {**description**}
-
-## Date
-DDMMYYY
